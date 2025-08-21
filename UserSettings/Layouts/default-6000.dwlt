@@ -377,7 +377,7 @@ MonoBehaviour:
       height: 864.00006
     m_MinimalGUI: 1
   m_defaultScale: 0.55949074
-  m_LastWindowPixelSize: {x: 1135.5, y: 630.5}
+  m_LastWindowPixelSize: {x: 908.4, y: 504.40002}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
