@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 734f643d71cde9c479fd39d2bdc2e954, type: 3}
+  m_Name: NewCarData
+  m_EditorClassIdentifier: 
+  carName: 
+  Speed: 25
+  FuilCapa: 0
+  gear: 3
+  backGear: 2
+  turnTime: 0.08
+  engineSound: {fileID: 0}
+  idleNorth: {fileID: 7400000, guid: f2a176b7c98053d4ba4e7507e6dda348, type: 2}
+  idleNorthEast: {fileID: 7400000, guid: 0e2d7c3702d04b24dbd7c6c94b60b379, type: 2}
+  idleEast: {fileID: 7400000, guid: 3eb55d36ef0fc9548a5eec0135e5cfdb, type: 2}
+  idleSouthEast: {fileID: 7400000, guid: a0020c93d7f13dc4cbf83a7c907fb4e9, type: 2}
+  idleSouth: {fileID: 7400000, guid: 78adb183922654d4d91b9b752e06d488, type: 2}
+  idleSouthWest: {fileID: 7400000, guid: 45c2d0317b345514eb1de3647fefd935, type: 2}
+  idleWest: {fileID: 7400000, guid: 54a5baecfae2575458aafbf45ab48521, type: 2}
+  idleNorthWest: {fileID: 7400000, guid: 034ad4de5b5d34548b49e635154ece2e, type: 2}
+  idleUpperNorthEast: {fileID: 7400000, guid: 7397c0919e625da42b5679e65449c755, type: 2}
+  idleUpperSouthEast: {fileID: 7400000, guid: 71d08c16b3d813d45bc1d80593d7f7cc, type: 2}
+  idleUpperSouthWest: {fileID: 7400000, guid: f9b3eaa06c30f764a834877cd3562310, type: 2}
+  idleUpperNorthWest: {fileID: 7400000, guid: 9f643224b7e8e714cb38d6f35820cd57, type: 2}
+  idleLowerNorthEast: {fileID: 7400000, guid: 91cb2e580d6a0c6418c4e2692e678764, type: 2}
+  idleLowerSouthEast: {fileID: 7400000, guid: ec05a040ab9bc7f4aa75f57e48481dc2, type: 2}
+  idleLowerSouthWest: {fileID: 7400000, guid: ac9390f52a4be134bb97352422d82740, type: 2}
+  idleLowerNorthWest: {fileID: 7400000, guid: 0a569f9585c105c478c20718a01fa863, type: 2}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projeler\\DeliveryDash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|D:\\Projeler\\DeliveryDash\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|d:\\projeler\\deliverydash\\assets\\scripts\\deliverypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deliverypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|d:\\projeler\\deliverydash\\assets\\scripts\\missionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\missionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|D:\\Projeler\\DeliveryDash\\assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|D:\\Projeler\\DeliveryDash\\assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|D:\\Projeler\\DeliveryDash\\assets\\scripts\\isozfixer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\isozfixer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|D:\\Projeler\\DeliveryDash\\assets\\scripts\\spriteremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spriteremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|D:\\Projeler\\DeliveryDash\\assets\\scripts\\aiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|D:\\Projeler\\DeliveryDash\\assets\\scripts\\pathlinedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathlinedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|D:\\Projeler\\DeliveryDash\\assets\\scripts\\cardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|D:\\Projeler\\DeliveryDash\\assets\\scripts\\deliverypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B128C67-56E6-11AA-5381-BE741E107882}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deliverypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\Player.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs*",
+              "ViewState": "AgIAALsAAAAAAAAAAAAIwMUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:58:46.086Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveryPanel.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\DeliveryPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeliveryPanel.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\DeliveryPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeliveryPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:16:40.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionManager.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\MissionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MissionManager.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\MissionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MissionManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:15:56.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuController.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:03:19.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarData.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\CarData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarData.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\CarData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarData.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:26:41.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuController.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:52:00.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeliveryPoint.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\DeliveryPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeliveryPoint.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\DeliveryPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeliveryPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:18:38.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PathLineDrawer.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\PathLineDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PathLineDrawer.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\PathLineDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PathLineDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:33:57.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AIAgent.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\AIAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AIAgent.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\AIAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AIAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T18:28:59.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpriteRemover.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\SpriteRemover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpriteRemover.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\SpriteRemover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpriteRemover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T14:13:43.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IsoZFixer.cs",
+              "DocumentMoniker": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\IsoZFixer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IsoZFixer.cs",
+              "ToolTip": "D:\\Projeler\\DeliveryDash\\Assets\\Scripts\\IsoZFixer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IsoZFixer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:24:48.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
